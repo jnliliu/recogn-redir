@@ -1,6 +1,8 @@
 # Device Recognition Redirector
 PHP web site that collects information about the target device with just one click (e.g.: IP, headers, geo location, browser info, software and hardware info).
 ## How to use
+Copy the **index.php** file to server, build the link (see example) and send it to target.
+
 ### Parameters
 **Required**
 
