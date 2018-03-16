@@ -1,5 +1,5 @@
 # Device Recognition Redirector
-PHP web site that collects information about the target device with just one click (e.g.: ip and headers, geo location, browser info, software and hardware info).
+PHP web site that collects information about the target device with just one click (e.g.: IP, headers, geo location, browser info, software and hardware info).
 ## How to use
 ### Parameters
 **Required**
