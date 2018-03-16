@@ -26,3 +26,7 @@ Path: "**_data/[i]/**"
 * **request_info.json** - Contains information about the HTTP request. (target IP, all headers, etc).
 * **device_info.json** - Contains information about the target device (OS, hardware, browser, etc).
 * **geolocation.json** - Contains the target geolocation returned from [Google Maps Geolocation API](https://developers.google.com/maps/documentation/geolocation/intro).
+
+### Copyrigth
+This project includes:
+[**UAParser.js**](https://github.com/faisalman/ua-parser-js) - Copyright © 2012-2016 Faisal Salman <fyzlman@gmail.com>
